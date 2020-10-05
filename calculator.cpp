@@ -8,8 +8,8 @@ T num1, num2;
 public:
 Calculator(T n1, T n2)
 {
-x = n1;
-y = n2;
+num1 = n1;
+num2 = n2;
 }
 
 void displayResult()
